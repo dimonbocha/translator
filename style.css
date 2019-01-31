@@ -1,0 +1,7 @@
+.inputtext{
+    width: 265px; height: 15px;
+    padding: 15px 15px 15px 10px;
+    border-radius: 10px;
+    font: 13px/20px Arial, sans-serif;
+    border: 1px solid lightgrey;
+}
